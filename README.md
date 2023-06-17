@@ -101,4 +101,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ```
 
-You can copy the above content and paste it into your `README.md` file, making any necessary adjustments <br/>or additions to match your specific project and library details.
+You can copy the above content and paste it into your `README.md` file, making any necessary adjustments or additions to match your specific project and library details.
+```
