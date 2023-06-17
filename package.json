@@ -1,7 +1,7 @@
 {
-  "name": "demo-front",
+  "name": "@amandhimand/frontend-demo",
   "version": "1.0.6",
-  "description": "",
+  "description": "Demo-Front is a powerful library that provides CRUD (Create, Read, Update, Delete) functionality for managing data in your projects. This library simplifies the process of handling data operations and allows you to focus on building your application.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -15,6 +15,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AmanDhimanD/frontend-demo.git"
-  }
+    "url": "git+https://github.com/AmanDhimanD/frontend-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AmanDhimanD/frontend-demo/issues"
+  },
+  "homepage": "https://github.com/AmanDhimanD/frontend-demo#readme",
+  "devDependencies": {}
 }
