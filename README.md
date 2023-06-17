@@ -1,5 +1,4 @@
 
-```markdown
 # Demo-Front Library
 
 Demo-Front is a powerful library that provides CRUD (Create, Read, Update, Delete) functionality for managing data in your projects. This library simplifies the process of handling data operations and allows you to focus on building your application.
