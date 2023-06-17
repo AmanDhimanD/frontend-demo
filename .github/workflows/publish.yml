@@ -1,4 +1,4 @@
-name: "publish frotendnpm"
+name: "publish demo-front"
 
 on: push
 
